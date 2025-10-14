@@ -7,7 +7,7 @@
 # Strings são imutáveis
 # Exemplos
 nome = 'Stwarty'
-print(nome[0:3]) # 0,1,2
+print(nome[0:1]) # 0,1,2
 print(nome[3:6]) # 3,4,5
 print(nome[0:6:2]) # 0,2,4
 print(nome[:6]) # 0,1,2,3,4,5
