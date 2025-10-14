@@ -19,5 +19,5 @@ O código está organizado em pastas por tópico de aprendizado.
 
 - ### 👤 Autor
 - **Stwarty J Camara**
-- Linkedin: https://www.linkedin.com/in/stwarty-j-camara
-- Email: stwartyjcamara@gmail.com
+- 📲 Linkedin: https://www.linkedin.com/in/stwarty-j-camara
+- 📧 Email: stwartyjcamara@gmail.com
