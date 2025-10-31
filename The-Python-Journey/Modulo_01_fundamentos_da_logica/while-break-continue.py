@@ -50,3 +50,13 @@ while True:
     else:
         print('Por favor, digite um número inteiro válido para a idade.')
 print('---')
+# While com while aninhados
+linha = 1
+while linha <= 3:
+    coluna = 1
+    while coluna <= 3:
+        print(f'Linha {linha}, Coluna {coluna}')
+        coluna += 1
+    linha += 1
+print('Fim dos loops aninhados')
+print('---')
